@@ -1,0 +1,10 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+    color: black;
+    font-size: 16px;
+}
+html{
+    padding: 1rem;
+    margin: 1rem;
+    border: dashed 1px black;
+}
